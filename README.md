@@ -5,5 +5,3 @@ Este projeto foi desenvolvido durante o curso "Databricks: Conhecendo a Ferramen
 ## Configuração do Ambiente
 
 ### 1. Todas informações e passo a passo desse projeto esta dentro do próprio Notebook, o nome do arquivo é  "Engenharia de Dados com Databricks".
-# Exemplo de comando para copiar para a pasta DBFS
-dbutils.fs.cp "caminho/do/dataset/BikeSharing" "/dbfs/pasta/do/projeto/BikeSharing"
